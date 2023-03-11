@@ -1,10 +1,11 @@
-header {
+
+    header {
         background-color: #333;
         color: #fff;
         padding: 20px;
         width: 100%;
       }
-      /* CSS styling for the content column */
+    
       main {
         display: flex;
         justify-content: center;
@@ -14,7 +15,7 @@ header {
         padding: 20px;
         width: 100%;
       }
-      /* CSS styling for the footer */
+
       footer {
         background-color: #333;
         color: #fff;
